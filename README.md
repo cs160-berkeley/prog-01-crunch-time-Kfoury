@@ -2,8 +2,6 @@
 
 InstaFit helps you make educated decisions on what exercises to perform. Just give InstaFit a calorie number, and the app will automatically calculate the reps/duration that it would take you to burn your planned amount.
 
-> It is not about working hard, it is all about working smart!
-
 ## Authors
 
 Fadi Kfoury ([fadi.kfoury@berkeley.edu](mailto:fadi.kfoury@berkeley.edu))
